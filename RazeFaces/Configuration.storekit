@@ -17,10 +17,45 @@
     }
   ],
   "settings" : {
-
+    "_askToBuyEnabled" : false,
+    "_timeRate" : 6
   },
   "subscriptionGroups" : [
+    {
+      "id" : "FD42518C",
+      "localizations" : [
 
+      ],
+      "name" : "VIP",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "8AD28490",
+          "introductoryOffer" : {
+            "internalID" : "BFD99C34",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "Vip Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temporary.plus",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Plus",
+          "subscriptionGroupID" : "FD42518C",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
   ],
   "version" : {
     "major" : 1,

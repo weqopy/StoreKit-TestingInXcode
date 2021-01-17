@@ -15,6 +15,7 @@
 		64D62BE71C121CFD0059469C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64D62BDB1C121CFD0059469C /* Images.xcassets */; };
 		64D62BEA1C121CFD0059469C /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D62BDE1C121CFD0059469C /* MasterViewController.swift */; };
 		64D62BEC1C121CFD0059469C /* RazeFaceProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D62BE01C121CFD0059469C /* RazeFaceProducts.swift */; };
+		77DC3E4A25B3D5DA00AB2D64 /* StoreKitTestCertificate.cer in Resources */ = {isa = PBXBuildFile; fileRef = 77DC3E4925B3D5DA00AB2D64 /* StoreKitTestCertificate.cer */; };
 		FEDE1D52209569CC0086FDA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEDE1D4E209569CC0086FDA7 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		64D62BDE1C121CFD0059469C /* MasterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MasterViewController.swift; path = RazeFaces/MasterViewController.swift; sourceTree = SOURCE_ROOT; };
 		64D62BE01C121CFD0059469C /* RazeFaceProducts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RazeFaceProducts.swift; path = RazeFaces/RazeFaceProducts.swift; sourceTree = SOURCE_ROOT; };
 		77DC3E3F25B289D900AB2D64 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
+		77DC3E4925B3D5DA00AB2D64 /* StoreKitTestCertificate.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = StoreKitTestCertificate.cer; sourceTree = "<group>"; };
 		FEDE1D4F209569CC0086FDA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FEDE1D552095770B0086FDA7 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -71,6 +73,7 @@
 				64D62BDA1C121CFD0059469C /* IAPHelper.swift */,
 				64D62BE01C121CFD0059469C /* RazeFaceProducts.swift */,
 				77DC3E3F25B289D900AB2D64 /* Configuration.storekit */,
+				77DC3E4925B3D5DA00AB2D64 /* StoreKitTestCertificate.cer */,
 				64D62BDE1C121CFD0059469C /* MasterViewController.swift */,
 				64D62BD81C121CFD0059469C /* DetailViewController.swift */,
 				17A72B6E1C503F36007E18ED /* ProductCell.swift */,
@@ -169,6 +172,7 @@
 				188E8D1B2105458E0001E08D /* LaunchScreen.storyboard in Resources */,
 				64D62BE71C121CFD0059469C /* Images.xcassets in Resources */,
 				FEDE1D52209569CC0086FDA7 /* Main.storyboard in Resources */,
+				77DC3E4A25B3D5DA00AB2D64 /* StoreKitTestCertificate.cer in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
